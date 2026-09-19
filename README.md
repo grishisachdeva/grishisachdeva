@@ -75,12 +75,6 @@ and AI-generated (spoofed) speech using machine learning.
 
 **Tech Focus:** Python • Machine Learning • Audio Processing
 
----
-
-### 🌸 More Projects Coming Soon
-
-Exploring new ideas and developing projects
-in AI, Data Science, and intelligent applications.
 
 </div>
 
@@ -93,16 +87,6 @@ in AI, Data Science, and intelligent applications.
 - 📊 Data Analytics
 - 🤖 AI-based Applications
 - 🗃️ SQL & Database Management
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=grishisachdeva&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grishisachdeva&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180" />
 
 </div>
 
