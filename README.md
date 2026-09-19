@@ -29,13 +29,6 @@ projects, and learning new skills.
 An AI-based system for detecting genuine and
 AI-generated (spoofed) speech.
 
-### 🌿 Ayurvedic Diet Management System
-A personalized diet management system using
-symptom analysis and nutrient-based recommendations.
-
-### 📍 AI-Driven Attendance & Field Workforce Management
-A system designed to manage attendance and
-field workforce operations with AI-based features.
 
 ## 📚 Currently Learning
 
@@ -55,7 +48,7 @@ field workforce operations with AI-based features.
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/grishi-sachdeva-573081296/)">
     LinkedIn
   </a>
 </p>
